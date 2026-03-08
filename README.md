@@ -12,7 +12,6 @@ This repository contains a collection of ASP.NET Core Web API projects demonstra
 - **ASP.NET Core Web API** - For building RESTful APIs
 - **Entity Framework Core** - ORM for database operations
 - **SQL Server** - Database management system
-- **AutoMapper** - Object-to-object mapping
 - **JWT (JSON Web Tokens)** - For authentication and authorization
 - **Swagger/OpenAPI** - API documentation and testing
 - **Newtonsoft.Json** - JSON serialization
@@ -73,7 +72,6 @@ A comprehensive authentication and authorization module with modern security fea
 - Security best practices
 - Email services integration
 - Clean Architecture principles
-- Domain-Driven Design patterns
 
 ## 🚀 Getting Started
 
@@ -126,7 +124,7 @@ Through these tasks, I've learned and practiced:
 - ✅ Building RESTful APIs with ASP.NET Core
 - ✅ Implementing design patterns (Repository, Unit of Work, Specification)
 - ✅ Database operations with Entity Framework Core
-- ✅ Clean Architecture and separation of concerns
+- ✅ Separation of concerns
 - ✅ JWT authentication and authorization
 - ✅ Security best practices for web APIs
 - ✅ Advanced querying techniques (filtering, sorting, pagination)
